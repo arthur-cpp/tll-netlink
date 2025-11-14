@@ -1,3 +1,10 @@
+tll-netlink (0.1.0) unstable; urgency=medium
+
+  * nl80211: Listen to nl80211 events
+  * sock-diag: Listen to NETLINK_SOCK_DIAG events
+
+ -- Pavel Shramov <shramov@mexmat.net>  Fri, 14 Nov 2025 12:42:08 +0300
+
 tll-netlink (0.0.0) unstable; urgency=medium
 
   * Initial release.
